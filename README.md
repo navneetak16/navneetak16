@@ -14,7 +14,7 @@
   <br>
   <p>
     <img align="left" alt="NAVNEET's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navneetak16&show_icons=true&hide_border=false&bg_color=0d1117&text_color=ffffff&title_color=F8D866" height="150em" />
-    <img align="right" alt="NAVNEET's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkallan&langs_count=8&hide_border=false&bg_color=0d1117&text_color=ffffff&layout=compact" height="150em" />
+    
   </p>
   <br>
   <hr>
@@ -36,6 +36,8 @@
   </p>
   <br>
   <a href="https://www.buymeacoffee.com/navneetak16" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40px" width="170px" ></a>
+
+  <img align="right" alt="NAVNEET's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkallan&langs_count=8&hide_border=false&bg_color=0d1117&text_color=ffffff&layout=compact" height="170em" />
   <br>
   <br>
   <hr>
